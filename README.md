@@ -1,4 +1,4 @@
-# C-Game-Engine
+# C++ Game Engine
 
 Provide a set of utility that Client-side Programmers can use to create a 2D games
 
